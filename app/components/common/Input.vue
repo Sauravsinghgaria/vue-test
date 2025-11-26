@@ -1,0 +1,6 @@
+<template>
+    <div>
+        <label for=""></label>
+        <input type="text">
+    </div>
+</template>
